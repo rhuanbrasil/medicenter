@@ -15,19 +15,6 @@ Este projeto é um **layout de site** desenvolvido com propósito de **estudo**,
 - **CSS3**: Para estilização, incluindo Flexbox, Grid e técnicas de design responsivo.
 - **JavaScript**: Para adicionar interatividade, botao de menu expansível.
 
-## Estrutura do Projeto
-```
-centro-medico-site/
-│
-├── index.html          # Arquivo HTML principal
-├── css/
-│   └── estilos.css     # Arquivo principal de estilos CSS
-├── js/
-│   └── script.js       # Arquivo JavaScript para interatividade
-├── assets/
-│   └── imagens/        # Pasta para imagens (ex.: logo, ícones)
-└── README.md           # Documentação do projeto
-```
 
 ## Instalação e Configuração
 1. **Clonar o repositório** (ou baixar os arquivos do projeto):
