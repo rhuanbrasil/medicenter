@@ -19,11 +19,11 @@ Este projeto é um **layout de site** desenvolvido com propósito de **estudo**,
 ## Instalação e Configuração
 1. **Clonar o repositório** (ou baixar os arquivos do projeto):
    ```
-   git clone <url-do-repositório>
+   git clone https://github.com/rhuanbrasil/medicenter
    ```
 2. Navegar até a pasta do projeto:
    ```
-   cd centro-medico-site
+   cd medicenter
    ```
 3. Abrir o arquivo `index.html` em um navegador:
    - Para uma melhor experiência, use um servidor local (ex.: extensão Live Server do VS Code).
